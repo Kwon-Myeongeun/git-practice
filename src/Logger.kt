@@ -9,4 +9,6 @@ object Logger {
     fun e(errorMessage: String){
         println("Log Error : $errorMessage")
     }
+
+    println("fast-forward 테스트용 수정")
 }
