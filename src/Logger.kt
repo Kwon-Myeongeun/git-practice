@@ -11,4 +11,5 @@ object Logger {
     }
 
     println("fast-forward 테스트용 수정")
+    println("fast-forward 테스트용 2차 수정")
 }
